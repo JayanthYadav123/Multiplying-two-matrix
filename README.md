@@ -37,7 +37,7 @@ result = value1*value2
 print("Product of two arrays is:",result)
 ~~~
 ## OUTPUT:
-![OUTPUT](ga5.png)
+![OUTPUT](/ga5.png)
 
 ## RESULT:
 Thus the program to find the product of two arrays using numpy has been verfied successfuly using python programming.
